@@ -1,0 +1,12 @@
+Shiva Dev
+Web Developer
+
+Skills:
+- Next.js, React, Tailwind CSS
+- Responsive web design
+- Performance optimization
+- Modern UI development
+
+Contact:
+- Email: shivadev@example.com
+- Portfolio: https://example.com
